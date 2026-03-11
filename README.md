@@ -18,9 +18,8 @@ This repo is my learning log: every circuit I build, understand, and improve goe
 |----|--------------------------------------|-------------------------------------|------------------------------------------|
 | 1  | Blink LED                            | Arduino Uno, LED, Resistor          | First program — making an LED blink.     |
 | 2  | Distance Measurement with LCD        | HC-SR04, 16x2 LCD, Arduino          | Displays live distance on LCD screen.    |
-| 3  | Smart Black box for motorcycles      | ESP32, MPU, Hall sensor,LED, Buuzzer|detects abnormal ride events and logs them|
-                                            |  RTC DS3231                         | with timestamped sensor data             |
-
+| 3  | Smart Black box for motorcycles      | ESP32, MPU, Hall sensor,LED, Buuzzer RTC DS3231|detects abnormal ride events and logs them with timestamped sensor data  |
+                                            
 ---
 
 ## 🧰 Components I Use
